@@ -1,0 +1,14 @@
+Given a list of skills, this program will generate a description of those skills. Here are some examples:
+
+Skills: agile, react.js, tailwind css, 
+Level: Intermediate
+Description: Perform full-stack development as part of an agile-focused team working on a medical staffing company's site. Front-end technologies include React.js and Tailwind CSS for development with a focus on component-driven development.
+---
+Skills: collaboration, figma, slack, 
+Level: Intermediate
+Description: Regularly participate in Scrum meetings, sprint planning, and client demonstration meetings. Also use various collaboration tools, including Figma, GitHub, and Slack.
+---
+Skills: productivity, accuracy, auditing, 
+Level: Beginner
+Description: Performed several roles which further push facility productivity and accuracy, such as process guiding, problem solving, and auditing. Also assisted other areas as needed, all with a strong attention to detail and a large focus on workplace safety.
+---
